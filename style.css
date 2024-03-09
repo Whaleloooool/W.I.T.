@@ -1,0 +1,9 @@
+.name{
+    color: red;
+    text-align: center;
+}
+
+.donut_img{
+    display: flex;
+    margin: auto;
+}
